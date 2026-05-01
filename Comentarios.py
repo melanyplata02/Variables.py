@@ -3,7 +3,7 @@
 de varias lineas'''
 
 #Definiendo variables
-nombre = "Melany"
+nombre = "Melany Nikol Plata Amado"
 edad = 14 
 estado = True
 altura = 1.60
